@@ -1,0 +1,30 @@
+<html>
+	<head>
+               <link rel="stylesheet" href="estilo.css">
+		<title>El tigesito</title>
+	</head>
+	<body>
+		<img src="tigesito.jpg"/>
+
+		<br>
+		
+		<table border="1">
+			<tr>
+				<td>Pais</td>
+				<td>Provincia</td>
+			</tr>
+			<tr>
+				<td>Argentina</td>
+				<td>Buenos Aires</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					 <video width="640" height="480" controls>
+					  <source src="tigesito.mp4" type="video/mp4">
+					</video> 
+				</td>
+			</tr>
+		</table>
+		
+	</body>
+</html>
